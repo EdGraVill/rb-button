@@ -89,7 +89,8 @@ There is no animation, only changes the display text if is loading and when is l
 
 ## Goals
 
-- [ ] Integration with icons (Under develop)
+- [ ] Integration with icons (Under develop).
+- [ ] Slide icon for confirm or perform any action.
 
 > looking for more? - Do a pull request with your proposals ;)
 
@@ -119,7 +120,7 @@ Once you're a collaborator don't forget 3 rules:
 
 Don't forget [join discussion on Slack](https://join.slack.com/t/react-basics/shared_invite/enQtMzM4MDMyNzM5NjgxLTMxYzcwMDMwYmNkZGIxNWFkZGZhMDVmNWU3OTQ3ZDhlYmZhOWU0NTkwMTdkNzg5ZTJhNWE3MDJlNTc3OGU4YjA)
 
-## Licence
+## License
 
 MIT License
 
